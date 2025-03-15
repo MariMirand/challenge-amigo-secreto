@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amigo Secreto</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head> 
+
+<body>
+    <div class="container">
+        <div class="container__informacoes">
+            <div class="container__texto">
+                <h1></h1> 
+                <p class="texto__paragrafo"></p>
+            </div>
+            <input type="text"  placeholder="Digite um nome" class="container__input" id="nomeImput">
+            <div class="chute container__botoes">
+                <button onclick="adicionarNome()" class="container__botao">Adicionar Nome</button>
+                <button onclick="sortearNome()" class="container__botao">Sortear</button>
+                <button onclick="reiniciarSorteio()" class="container__botao" id="reiniciar" disabled>Novo Sorteio</button> 
+            </div>
+        </div>
+         <h2 id="mensagemErro" class="mensagemErro"></h2> 
+        <script src="/js/script.js"></script>
+</body>
+
+
+</html>

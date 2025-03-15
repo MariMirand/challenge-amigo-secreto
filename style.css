@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/gift.jpg");
+    background-image: url("gift.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;

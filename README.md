@@ -7,5 +7,8 @@
 Temos a opção de adicionar um nome para o sorteio, mas o sorteio só funcionará se for adicionado ao menos 2 nomes. 
 ![página-erro-nome-inválido](https://github.com/user-attachments/assets/8401d80c-8af1-4477-892f-72187ae94466)
 
-Após adicionar pelo menos 2 nomes, aqui no caso foi a "Mari" e "Ana", clicaando em sortear já mostra o resultado. 
+Após adicionar pelo menos 2 nomes, aqui no caso foi a "Mari" e "Ana", clicando em sortear já mostra o resultado e o botão antes disabled Reiniciar, habilita. 
 ![sorteio](https://github.com/user-attachments/assets/52808ccc-a123-4bc9-b9bd-cb870c95990e)
+
+Ao clicar em Reiniciar ele desabilita novamente. 
+![Reiniciar-jogo](https://github.com/user-attachments/assets/8de7925d-ab68-438d-b1b0-32cb36cc5172)
